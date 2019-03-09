@@ -45,12 +45,12 @@ We have another doc that dives into [detailed architecture](arch.md).
 
 ## design
 
-Used Material UI components:
+Used Material UI components including:
 
-- Material Table components for `TransactionDataGrid`
+- Material Table components for `TransactionDataGrid.js`
 - Material circular progress loading indicator between transaction and account data fetches
 - Typography throughout the app so it can quickly be updated with a new theme
 
-### improvements
+## improvements
 
 Find a list of [design, testing, product, data and doc improvements to work on.](improvements.md)
